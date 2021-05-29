@@ -1,22 +1,6 @@
 import java.util.ArrayList;
 import java.util.Random; //imports the Random Class
 import java.util.Scanner; //imports the Scanner Class
-/***************************************************************************************
-*   Name: Justin Baltazar
-*   Program: Minesweeper
-*   Date: 4/25/18
-*
-***************************************************************************************/
-/***************************************************************************************
-*    Citation:
-*    Title: Java – Convert String to int
-*    Author: mkyong
-*    Date: July 1, 2015
-*    Type: Source Code (Tutorial)
-*    Code version: v1.0
-*    Availability: https://www.mkyong.com/java/java-convert-string-to-int/
-*
-***************************************************************************************/
 public class Minesweeper {
 
 	public static void main(String[] args){
